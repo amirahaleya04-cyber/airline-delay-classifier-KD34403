@@ -90,11 +90,11 @@ Each script saves its outputs (CSVs, PNG charts, `.pkl` model) to the `outputs/`
 
 | Milestone | Topic | Presenter | Link |
 |---|---|---|---|
-| M1 | Data Pipeline | Member 1 | *(add YouTube link)* |
-| M2 | Architecture Logic | Member 2 | *(add YouTube link)* |
-| M3 | Training Loop | Member 3 | *(add YouTube link)* |
-| M4 | Model Optimization | Member 4 | *(add YouTube link)* |
-| M5 | Final Evaluation | Member 5 | *(add YouTube link)* |
+| M1 | Data Pipeline | Member 1 | *(https://www.youtube.com/watch?v=2KRwQX29Aeg)* |
+| M2 | Architecture Logic | Member 2 | *(https://youtu.be/pAQCKedfeqY?si=80ut19Gms4FgQok5)* |
+| M3 | Training Loop | Member 3 | *(https://youtu.be/mFCSecFVAgM)* |
+| M4 | Model Optimization | Member 4 | *(https://youtu.be/sXEml3-6Mas)* |
+| M5 | Final Evaluation | Member 5 | *(https://www.youtube.com/watch?v=oTSyyNUQ9gE)* |
 
 ---
 
@@ -102,11 +102,11 @@ Each script saves its outputs (CSVs, PNG charts, `.pkl` model) to the `outputs/`
 
 | Name | Student ID | Milestone |
 |---|---|---|
-| Member 1 | *(ID)* | M1 — Data Pipeline |
-| Member 2 | *(ID)* | M2 — Architecture Logic |
-| Member 3 | *(ID)* | M3 — Training Loop |
-| Member 4 | *(ID)* | M4 — Model Optimization |
-| Member 5 | *(ID)* | M5 — Final Evaluation |
+| Member 1 | *(BI23110345)* | M1 — Data Pipeline |
+| Member 2 | *(BI23110349)* | M2 — Architecture Logic |
+| Member 3 | *(BI23110277)* | M3 — Training Loop |
+| Member 4 | *(BI23110147)* | M4 — Model Optimization |
+| Member 5 | *(BI23110348)* | M5 — Final Evaluation |
 
 ---
 
