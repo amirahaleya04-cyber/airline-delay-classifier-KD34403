@@ -48,7 +48,7 @@ Using Google Colab
 ### 1. Place the dataset
 Dataset (2).zip
 
-## 2. Run full_pipeline.ipnyb
+## 2. Run full_pipeline (1).ipnyb
 
 Using Python
 ### 1. Install dependencies
