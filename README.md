@@ -44,7 +44,13 @@ This project builds a **Random Forest binary classifier** to predict whether a U
 ---
 
 ## ⚙️ How to Run (Reproducibility)
+Using Google Colab
+### 1. Place the dataset
+Dataset (2).zip
 
+## 2. Run full_pipeline.ipnyb
+
+Using Python
 ### 1. Install dependencies
 ```bash
 pip install -r requirements.txt
